@@ -1,0 +1,92 @@
+body{
+	color: #222;
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+
+.texturas{
+	margin: 10px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	user-select: none;
+}
+
+.texturas div{
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	user-select: all;
+}
+
+.texturas div:active{
+	opacity: 0.6;
+}
+
+.textura1{
+	background: url("textura1.png");
+}
+.textura2{
+	background: url("textura2.png");
+}
+.textura3{
+	background: url("textura3.png");
+}
+.textura4{
+	background: url("textura4.png");
+}
+.textura5{
+	background: url("textura5.png");
+}
+.textura6{
+	background: url("textura6.png");
+}
+.textura7{
+	background: url("textura7.png");
+}
+.textura8{
+	background: url("textura8.png");
+}
+.textura9{
+	background: url("textura9.png");
+}
+
+.textura10{
+	background: url("textura10.png");
+}
+.textura11{
+	background: url("textura11.png");
+}
+
+.textura12{
+	background: url("textura12.png");
+}
+.textura13{
+	background: url("textura13.png");
+}
+.textura14{
+	background: url("textura14.png");
+}
+.textura15{
+	background: url("textura15.png");
+}
+.textura16{
+	background: url("textura16.png");
+}
+
+
+
+
+.zona{
+	margin: 10px;
+	background: #ddd;
+	height: 200px;
+
+}
+
+h1{
+	text-align: center;
+	background: lightpink;
+}
